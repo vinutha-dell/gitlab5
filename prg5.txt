@@ -1,2 +1,6 @@
 Hello hi 
+<<<<<<< HEAD
 hi hello hello 
+=======
+Hi friend 
+>>>>>>> d4fc118 (my first commit)
